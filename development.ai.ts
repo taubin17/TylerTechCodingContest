@@ -48,7 +48,7 @@ export type Coord = [number, number];
 */
 
 // do not include "export const developmentScript = " with your submission
-`
+//`
 let turns = -1;
 let player_moves = [];
 let usable_tiles = [];
@@ -216,4 +216,4 @@ function main(gameState, side) {
   }
 
  
-`;
+//`;
