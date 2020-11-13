@@ -162,4 +162,5 @@ function main(gameState, side) {
     }
     
     return [player_moves[0], player_moves[1], player_moves[2]];
-  }
+    
+}
